@@ -1,0 +1,16 @@
+{
+  "name": "lnc/near_login",
+  "description": "Plugin to login using near",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lnc"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "LNCNearLogin\\": ""
+    }
+  }
+}
